@@ -1,6 +1,6 @@
-# Cereja Natura 🌿
+# Ediana Natura 🌿
 
-Bem-vindo ao **Cereja Natura**, um projeto de site para exibição de produtos da linha Natura. Este site foi desenvolvido com o objetivo de criar uma experiência visual agradável e funcional para os usuários, destacando produtos e informações relevantes.
+Bem-vindo ao **Ediana Natura**, um projeto de site para exibição de produtos da linha Natura. Este site foi desenvolvido com o objetivo de criar uma experiência visual agradável e funcional para os usuários, destacando produtos e informações relevantes.
 
 ---
 
@@ -23,5 +23,3 @@ Bem-vindo ao **Cereja Natura**, um projeto de site para exibição de produtos d
 - **Google Fonts**: Fonte `Montserrat` para um design moderno e elegante.
 
 ---
-
-## 📂 Estrutura do Projeto
